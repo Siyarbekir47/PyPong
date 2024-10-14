@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c2ba875-8f63-4d8b-bc8a-904578c56c74" name="Changes" comment="add ball, and playlogic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/ball.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728926907789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ball, and playlogic">
+      <option name="closed" value="true" />
+      <created>1728927510835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728927510835</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

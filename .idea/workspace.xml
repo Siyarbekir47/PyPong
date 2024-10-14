@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c2ba875-8f63-4d8b-bc8a-904578c56c74" name="Changes" comment="add ball, and playlogic">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/scoreboard.py" afterDir="false" />
-    </list>
+    <list default="true" id="8c2ba875-8f63-4d8b-bc8a-904578c56c74" name="Changes" comment="add ball, and playlogic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728927510835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add ball, and playlogic">
+      <option name="closed" value="true" />
+      <created>1728927537481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728927537481</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

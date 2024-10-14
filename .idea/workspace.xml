@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c2ba875-8f63-4d8b-bc8a-904578c56c74" name="Changes" comment="add controllable paddle">
-      <change afterPath="$PROJECT_DIR$/Class/ball.py" afterDir="false" />
+    <list default="true" id="8c2ba875-8f63-4d8b-bc8a-904578c56c74" name="Changes" comment="add ball, and playlogic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,7 @@
     "Python.ball.executor": "Run",
     "Python.main.executor": "Run",
     "Python.paddle.executor": "Run",
+    "Python.scoreboard.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -79,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728847997580</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add ball, and playlogic">
+      <option name="closed" value="true" />
+      <created>1728926907789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728926907789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="add controllable paddle" />
-    <option name="LAST_COMMIT_MESSAGE" value="add controllable paddle" />
+    <MESSAGE value="add ball, and playlogic" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ball, and playlogic" />
   </component>
 </project>

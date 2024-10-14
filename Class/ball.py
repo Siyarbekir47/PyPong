@@ -7,8 +7,8 @@ class Ball(Turtle):
         self.color("blue")
         self.penup()
         self.speed(40)
-        self.dx = 1
-        self.dy = 1
+        self.dx = 1.7
+        self.dy = 1.7
 
     def move(self):
         new_x = self.xcor() + self.dx

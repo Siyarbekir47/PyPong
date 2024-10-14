@@ -24,17 +24,12 @@ PyPong is a simple implementation of the classic Ping Pong game, created using P
    ```bash
    git clone https://github.com/your-username/pypong.git
 2. Navigate into the project directory:
-
-
-
-```bash
-cd pypong
-```
-Run the game:
-
-```bash
-python main.py
-```
+   ```bash
+   cd pypong
+3. Run the game:
+   ```bash
+   python main.py
+   ```
 Make sure you have Python 3 installed.
 
 

@@ -20,11 +20,14 @@ scoreboard.update_score()
 paddle_a = Paddle(STARTING_POSITION[0])
 paddle_b = Paddle(STARTING_POSITION[1])
 
+
+
 screen.listen()
-screen.onkeypress(paddle_a.up,"Up")
-screen.onkeypress(paddle_a.down,"Down")
-screen.onkeypress(paddle_b.up,"w")
-screen.onkeypress(paddle_b.down,"s")
+screen.onkeypress(paddle_a.up, "Up")
+screen.onkeypress(paddle_a.down, "Down")
+screen.onkeypress(paddle_b.up, "w")
+screen.onkeypress(paddle_b.down, "s")
+
 
 game_is_on =  True
 while game_is_on:
@@ -33,12 +36,14 @@ while game_is_on:
 
     ball.move()
 
-    #check top/bottom wall
+
+    #check paddle hit
     if ball.xcor() < -360 and paddle_a.ycor() - 50 < ball.ycor() < paddle_a.ycor() + 50:
         ball.bounce_x()
 
     if ball.xcor() > 360 and paddle_b.ycor() - 50 < ball.ycor() < paddle_b.ycor() + 50:
         ball.bounce_x()
+
 
     # Detect if ball goes out of bounds
     if ball.xcor() > 380:
